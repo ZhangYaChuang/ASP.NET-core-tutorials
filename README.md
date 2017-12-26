@@ -1,2 +1,2 @@
 # ASP.NET-core-tutorials
-Some demos on msdn
+Some demos on MSDN
